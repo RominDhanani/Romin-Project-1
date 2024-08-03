@@ -78,6 +78,9 @@ section{
     section{
         padding: 30px 0px;
     }
+    .g-5, .gx-5 {
+        --bs-gutter-x: 0rem;
+    }
 }
 @media (max-width:319.98px) {
     section{
